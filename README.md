@@ -8,7 +8,7 @@
 amvi234/amvi234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
+
  <h3>Hi there 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
    <img align=right src="https://komarev.com/ghpvc/?username=amvi234&label=Profile%20views" alt="AmitVikram" />
