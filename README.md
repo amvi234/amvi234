@@ -1,4 +1,4 @@
-<!-- - 👋 Hi, I’m AMIT VIKRAM
+<!-- - Hi, I’m AMIT VIKRAM 👋
 - 👀 I’m interested in Competitive Coding
 - 🌱 I’m currently learning Android dev with Kotlin
 - 📫 How to reach me 📧amvi19cs@cmrit.ac.in
