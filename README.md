@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <h3 style="float:inline-end">A passionate developer from India</h3>
 
 <ul>
-  <li>🌱 I’m currently learning <b>android in kotlib</b>.</li>
+  <li>🌱 I’m currently learning <b>android in kotlin language</b>.</li>
   <li>👯 I’m looking to collaborate on <b>Android</b> and <b>React</b> projects.</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/amitvikram--/"><b>@AmitVikram</b></a></li>
   <li>
