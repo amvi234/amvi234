@@ -32,9 +32,7 @@ You can click the Preview link to take a look at your changes.
         <img alt="GeeksForGeeks logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
       </a>
       <span>&nbsp;</span>
-      <a href="https://www.instagram.com/amit__vikram/">
-        <img alt="instagram logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-      </a>
+      
     </span>
   </li>
 </ul>
