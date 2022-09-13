@@ -31,9 +31,11 @@ You can click the Preview link to take a look at your changes.
       <a href="https://auth.geeksforgeeks.org/user/amvi19cs/profile">
         <img alt="GeeksForGeeks logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
       </a>
-     
+     <a href="https://leetcode.com/vikramamit/">
+        <img alt="LeetCode Logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+      </a>
       
-    </span>
+    
   </li>
 </ul>
 
