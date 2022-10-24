@@ -1,6 +1,6 @@
 <!-- - Hi, I’m AMIT VIKRAM 👋
-- 👀 I’m interested in Competitive Coding
-- 🌱 I’m currently learning Android dev 
+- 👀 I’m interested in Solving DSA Problems
+- 🌱 I’m currently learning MERN Stack Development
 - 📫 How to reach me 📧amvi19cs@cmrit.ac.in
                       🔗Linkedin-https://www.linkedin.com/in/amitvikram--/
 
