@@ -32,6 +32,10 @@ You can click the Preview link to take a look at your changes.
         <img alt="LinkdeIN logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
       </a>
       <span>&nbsp;</span>
+      <a href="https://www.youtube.com/channel/UCkFRhUtq_zEemaGmdhV3c7Q">
+        <img alt="YouTube logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+      </a>
+      <span>&nbsp;</span>
       <a href="https://auth.geeksforgeeks.org/user/amvi19cs/profile">
         <img alt="GeeksForGeeks logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
       </a>
