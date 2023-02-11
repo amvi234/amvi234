@@ -55,6 +55,10 @@ You can click the Preview link to take a look at your changes.
     </span>
   </li>
 </ul>
+<br>
+<br>
+<br>
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amvi234&theme=dark&show_cons=true&hide=issues,contribs,prs)
 
 ### Skills
 
