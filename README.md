@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
         <img alt="LeetCode logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
       </a>
       <span>&nbsp;</span>
-      <a href="https://www.linkedin.com/in/amitvikram--/">
+      <a href="https://www.linkedin.com/in/amvi234/">
         <img alt="LinkdeIN logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
       </a>
       <span>&nbsp;</span>
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
         <img alt="YouTube logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
       </a>
       <span>&nbsp;</span>
-      <a href="https://auth.geeksforgeeks.org/user/amvi19cs/profile">
+      <a href="https://auth.geeksforgeeks.org/user/amvi234/profile">
         <img alt="GeeksForGeeks logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
       </a>
       <span>&nbsp;</span>
@@ -44,11 +44,11 @@ You can click the Preview link to take a look at your changes.
         <img alt="CodeChef logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
       </a> 
 <!--       <span>&nbsp;</span>
-      <a href="https://www.codingninjas.com/codestudio/profile/839c939a-4101-4e6c-919b-f5b417743e92">
+      <a href="https://www.codingninjas.com/codestudio/profile/839c939a-4101-4e6c-919b-f5b417743e92 ">
         <img alt="Codeforces logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Cod.svg" />
       </a>  -->
       <span>&nbsp;</span>
-      <a href="https://www.hackerrank.com/Amitv23?hr_r=1">
+      <a href="https://www.hackerrank.com/Amvi234?hr_r=1">
         <img alt="HackerRank logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
       </a> 
       <span>&nbsp;</span>
