@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
         <img alt="GeeksForGeeks logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
       </a>
       <span>&nbsp;</span>
-      <a href="https://www.codechef.com/users/amitv_23">
-        <img alt="CodeChef logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+      <a href="https://www.codingninjas.com/studio/profile/839c939a-4101-4e6c-919b-f5b417743e92">
+        <img alt="CodeWars logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />
       </a> 
 <!--       <span>&nbsp;</span>
       <a href="https://www.codingninjas.com/codestudio/profile/839c939a-4101-4e6c-919b-f5b417743e92 ">
