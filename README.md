@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <ul>
   <li>🌱 I’m currently learning <b> React JS</b>.</li>
   <li>👯 I’m looking to collaborate on <b>Android</b> and <b>React</b> projects.</li>
-  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/amitvikram--/"><b>@AmitVikram</b></a></li>
+  <li>📫 How to reach me: <a href="https://www.linkedin.com/in/amvi234/"><b>@AmitVikram</b></a></li>
   <li>
     <span>
       🔗 Find me on
