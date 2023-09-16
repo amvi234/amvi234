@@ -6,37 +6,40 @@
 <h3 style="float:inline-end">I'm an enthusisatic developer </h3>
 
 <ul>
-  <li>Currently learning <b> Django</b>.</li>
+  <li>Exploring Latest Technologies </li>
   <li>Looking to collaborate on <b>React</b> projects.</li>
   <li>
     <span>
       Find me on
       <span>&nbsp;</span>
       <a href="https://leetcode.com/amvi234/">
-        <img alt="LeetCode logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+        <img alt="LeetCode logo" width="100px" src="https://img.shields.io/badge/LeetCode-100000?style=for-the-badge&logo=LeetCode&logoColor=white" />
       </a>
       <span>&nbsp;</span>
       <a href="https://www.linkedin.com/in/amvi234/">
-        <img alt="LinkdeIn logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+        <img alt="LinkdeIn logo" width="100px" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white" />
       </a>
       <span>&nbsp;</span>
       <a href="https://www.youtube.com/channel/UCkFRhUtq_zEemaGmdhV3c7Q">
-        <img alt="YouTube logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-      </a>
-      <span>&nbsp;</span>
-      <a href="https://auth.geeksforgeeks.org/user/amvi234/profile">
-        <img alt="GeeksForGeeks logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+        <img alt="YouTube logo" width="100px" src="https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=github&logoColor=white"  />
       </a>
       <span>&nbsp;</span>
       <a href="https://www.codingninjas.com/studio/profile/839c939a-4101-4e6c-919b-f5b417743e92">
-        <img alt="CodeStudio logo" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />
+        <img alt="CodeStudio logo" width="100px" src="https://img.shields.io/badge/CodingNinjas-100000?style=for-the-badge&logo=CodingNinjas&logoColor=white"  />
       </a> 
   </li>
   <li>
-    Find my GitHub Stats below here:-
+    GitHub Stats below here:-
   </li>
-    
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amvi234&theme=dark&show_cons=true&prs=true&hide=issues,contribs)
+<p align="center">
+<a href="https://github.com/Sujeet3099">
+<a href="https://github.com/Sujeet3099">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amvi234&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amvi234&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</a>
+</p>
+</p>
 </ul>
 
 ### Skills
