@@ -20,8 +20,8 @@
         <img alt="LinkdeIn logo" width="100px" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white" />
       </a>
       <span>&nbsp;</span>
-      <a href="https://www.youtube.com/channel/UCkFRhUtq_zEemaGmdhV3c7Q">
-        <img alt="YouTube logo" width="100px" src="https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=github&logoColor=white"  />
+     <a href="https://auth.geeksforgeeks.org/user/amvi234/practice/">
+        <img alt="GeeksForGeeks logo" width="100px" src="https://img.shields.io/badge/GeeksForGeeks-100000?style=for-the-badge&logo=LinkedIn&logoColor=white" />
       </a>
       <span>&nbsp;</span>
       <a href="https://www.codingninjas.com/studio/profile/839c939a-4101-4e6c-919b-f5b417743e92">
