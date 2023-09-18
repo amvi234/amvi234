@@ -21,7 +21,7 @@
       </a>
       <span>&nbsp;</span>
      <a href="https://auth.geeksforgeeks.org/user/amvi234/practice/">
-        <img alt="GeeksForGeeks logo" width="100px" src="https://img.shields.io/badge/GeeksForGeeks-100000?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+        <img alt="GeeksForGeeks logo" width="100px" src="https://img.shields.io/badge/GeeksForGeeks-100000?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" />
       </a>
       <span>&nbsp;</span>
       <a href="https://www.codingninjas.com/studio/profile/839c939a-4101-4e6c-919b-f5b417743e92">
