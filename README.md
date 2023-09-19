@@ -33,13 +33,24 @@
   </li>
 <p align="center">
 <a href="https://github.com/amvi234">
+ <img src="https://github-profile-trophy.vercel.app/?username=amvi234&theme=algolia" alt="amvi234" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amvi234&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amvi234&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amvi234&color=dc143c&theme=algolia" alt="amvi234" />
+ 
 </a>
 </a>
 </p>
 </p>
 </ul>
+
+### Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=advance-filtering&theme=algolia)](https://github.com/amvi234/advance-filtering)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=DAILYDSA&theme=algolia)](https://github.com/amvi234/DAILYDSA)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=vlog-app-frontend&theme=algolia)](https://github.com/amvi234/vlog-app-frontend)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=vlog-app-backend&theme=algolia)](https://github.com/amvi234/vlog-app-backend)&nbsp;
+
 
 ### Skills
 
@@ -59,7 +70,6 @@
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-        <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
         <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
         <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png"></code>        
   </tr>
