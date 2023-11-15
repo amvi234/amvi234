@@ -47,9 +47,7 @@
 ### Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=advance-filtering&theme=algolia)](https://github.com/amvi234/advance-filtering)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=DAILYDSA&theme=algolia)](https://github.com/amvi234/DAILYDSA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=vlog-app-frontend&theme=algolia)](https://github.com/amvi234/vlog-app-frontend)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=portfolio&theme=algolia)](https://github.com/amvi234/portfolio)&nbsp;
 
 
 ## 💻 Tools & Technologies I Love
