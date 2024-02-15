@@ -8,7 +8,7 @@
 <ul>
   <li>Exploring Latest Technologies </li>
   <li>Looking to collaborate on <b>React</b> projects.</li>
-<!--   <li>
+ <li>
     <span>
       Find me on
       <span>&nbsp;</span>
@@ -27,7 +27,7 @@
       <a href="https://www.codingninjas.com/studio/profile/839c939a-4101-4e6c-919b-f5b417743e92">
         <img alt="CodeStudio logo" width="100px" src="https://img.shields.io/badge/CodingNinjas-100000?style=for-the-badge&logo=CodingNinjas&logoColor=white"  />
       </a> 
-  </li> -->
+  </li> 
   <li>
     GitHub Stats below here:-
   </li>
