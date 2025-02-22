@@ -7,7 +7,7 @@
 
 <ul>
   <li>Exploring Latest Technologies </li>
-  <li>Looking to collaborate on <b>React</b> projects.</li>
+  <li>Looking to collaborate on <b>Django-React</b> projects.</li>
  <li>
     <span>
       Find me on
