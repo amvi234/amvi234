@@ -46,7 +46,7 @@
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=todo-app&theme=algolia)](https://github.com/amvi234/todo-app)&nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=e-commerce&theme=algolia)](https://github.com/amvi234/e-commerce)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=e-classroom&theme=algolia)](https://github.com/amvi234/e-classroom)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=advance-filtering&theme=algolia)](https://github.com/amvi234/advance-filtering)&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=manifest-reciepes&theme=algolia)](https://github.com/amvi234/manifest-reciepes)&nbsp;
