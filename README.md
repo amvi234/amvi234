@@ -28,29 +28,10 @@
         <img alt="Hackerrank logo" width="100px" src="https://img.shields.io/badge/HackerRank-100000?style=for-the-badge&logo=HackerRank&logoColor=white"  />
       </a> 
   </li> 
-  <li>
-    GitHub Stats below here:-
-  </li>
-<p align="center">
-<a href="https://github.com/amvi234">
- <img src="https://github-profile-trophy.vercel.app/?username=amvi234&theme=algolia" alt="amvi234" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amvi234&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amvi234&layout=compact&langs_count=8&theme=algolia"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amvi234&color=dc143c&theme=algolia" alt="amvi234" />
  
-</a>
-</a>
-</p>
+
 </p>
 </ul>
-
-### Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=portfolio&theme=algolia)](https://github.com/amvi234/portfolio)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=e-commerce&theme=algolia)](https://github.com/amvi234/e-commerce)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=advance-filtering&theme=algolia)](https://github.com/amvi234/advance-filtering)&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amvi234&repo=manifest-reciepes&theme=algolia)](https://github.com/amvi234/manifest-reciepes)&nbsp;
-
 
 ## 💻 Tools & Technologies I Love
 <table>
@@ -76,8 +57,10 @@
         <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
         <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
         <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+     <a href="https://www.djangoproject.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+</a>
         <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-        <a href="https://www.django.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original-wordmark.svg" alt="django" width="40" height="40"/> </a>
         <a href="https://www.python.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
     </td>
     <td>
