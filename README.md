@@ -1,9 +1,4 @@
- <h3>Hola ¿ Cómo está?  
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZjbm9xanI2bTF3dXVjanp6a2lkNHpmczg3eG4xbW03dWtiMzN4NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" height="15px" width="25px">
-   <img align=right src="https://komarev.com/ghpvc/?username=amvi234&label=Profile%20views" alt="AmitVikram" />
-</h3>
-
-<h3 style="float:inline-end">Backend Development Enthusiast </h3>
+<h3 style="float:inline-end">Full Stack Developer </h3>
 
 <ul>
   <li>Exploring Latest Technologies </li>
@@ -13,23 +8,22 @@
       Find me on
       <span>&nbsp;</span>
       <a href="https://leetcode.com/amvi234/">
-        <img alt="LeetCode logo" width="100px" src="https://img.shields.io/badge/LeetCode-100000?style=for-the-badge&logo=LeetCode&logoColor=white" />
+        <img alt="LeetCode logo" width="70px" height="20px" border="0" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
       </a>
       <span>&nbsp;</span>
       <a href="https://www.linkedin.com/in/amvi234/">
-        <img alt="LinkdeIn logo" width="100px" src="https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+        <img alt="LinkdeIn logo" width="70px" height="20px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
       </a>
       <span>&nbsp;</span>
      <a href="https://auth.geeksforgeeks.org/user/amvi234/practice/">
-        <img alt="GeeksForGeeks logo" width="100px" src="https://img.shields.io/badge/GeeksForGeeks-100000?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" />
+        <img alt="GeeksForGeeks logo" width="70px" height="20px" src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" />
       </a>
       <span>&nbsp;</span>
       <a href="https://www.hackerrank.com/profile/amvi234">
-        <img alt="Hackerrank logo" width="100px" src="https://img.shields.io/badge/HackerRank-100000?style=for-the-badge&logo=HackerRank&logoColor=white"  />
+        <img alt="Hackerrank logo" width="70px"  height="20px" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"  />
       </a> 
+     <span>&nbsp;</span>
   </li> 
- 
-
 </p>
 </ul>
 
