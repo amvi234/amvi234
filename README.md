@@ -1,7 +1,6 @@
 <h3 style="float:inline-end">Full Stack Developer </h3>
 
 <ul>
-  <li>Exploring Latest Technologies </li>
   <li>Looking to collaborate on <b>Django-React</b> projects.</li>
  <li>
     <span>
