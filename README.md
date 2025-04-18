@@ -14,13 +14,13 @@
         <img alt="LinkdeIn logo" width="70px" height="20px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
       </a>
       <span>&nbsp;</span>
-     <a href="https://auth.geeksforgeeks.org/user/amvi234/practice/">
-        <img alt="GeeksForGeeks logo" width="70px" height="20px" src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" />
-      </a>
-      <span>&nbsp;</span>
       <a href="https://www.hackerrank.com/profile/amvi234">
         <img alt="Hackerrank logo" width="70px"  height="20px" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"  />
       </a> 
+      <span>&nbsp;</span>
+      <a href="https://www.youtube.com/@thejavascriptworkmate8533">
+        <img alt="YouTube logo" width="70px" height="20px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+      </a>
      <span>&nbsp;</span>
   </li> 
 </p>
