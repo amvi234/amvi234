@@ -2,28 +2,6 @@
 
 <ul>
   <li>Looking to collaborate on <b>Django-React</b> projects.</li>
- <li>
-    <span>
-      Find me on
-      <span>&nbsp;</span>
-      <a href="https://leetcode.com/amvi234/">
-        <img alt="LeetCode logo" width="70px" height="20px" border="0" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
-      </a>
-      <span>&nbsp;</span>
-      <a href="https://www.linkedin.com/in/amvi234/">
-        <img alt="LinkdeIn logo" width="70px" height="20px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-      </a>
-      <span>&nbsp;</span>
-      <a href="https://www.hackerrank.com/profile/amvi234">
-        <img alt="Hackerrank logo" width="70px"  height="20px" src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white"  />
-      </a> 
-      <span>&nbsp;</span>
-      <a href="https://www.youtube.com/@thejavascriptworkmate8533">
-        <img alt="YouTube logo" width="70px" height="20px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-     <span>&nbsp;</span>
-  </li> 
-</p>
 </ul>
 
 ## 💻 Tools & Technologies I Love
