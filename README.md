@@ -1,9 +1,5 @@
 <h3 style="float:inline-end">Full Stack Developer </h3>
 
-<ul>
-  <li>Looking to collaborate on <b>Django-React</b> projects.</li>
-</ul>
-
 ## 💻 Tools & Technologies I Love
 <table>
   <tr>
