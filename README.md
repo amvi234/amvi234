@@ -1,4 +1,21 @@
-<h3 style="float:inline-end">Full Stack Developer </h3>
+ <h3>Yo, What's up?  
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZjbm9xanI2bTF3dXVjanp6a2lkNHpmczg3eG4xbW03dWtiMzN4NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/FkdU6Or6txxpPdOsL8/giphy.gif" height="15px" width="25px">
+   <img align=right src="https://komarev.com/ghpvc/?username=amvi234&label=Profile%20views" alt="AmitVikram" />
+</h3>
+
+## Full Stack Engineer
+<p align="center">
+<a href="https://github.com/amvi234">
+ <img src="https://github-profile-trophy.vercel.app/?username=amvi234&theme=algolia" alt="amvi234" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amvi234&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amvi234&layout=compact&langs_count=8&theme=algolia"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amvi234&color=dc143c&theme=algolia" alt="amvi234" />
+ 
+</a>
+</a>
+</p>
+</p>
+</ul>
 
 ## 💻 Tools & Technologies I Love
 <table>
