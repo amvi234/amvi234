@@ -4,6 +4,7 @@
 </h3>
 
 ## Full Stack Engineer
+
 <p align="center">
 <a href="https://github.com/amvi234">
  <img src="https://github-profile-trophy.vercel.app/?username=amvi234&theme=algolia" alt="amvi234" />
@@ -61,10 +62,25 @@
       <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a>
+     <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" 
+             alt="FastAPI" width="40" height="40"/>
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" 
+             alt="Flask" width="40" height="40"/>
+    </a>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" />
+    <!-- Express.js -->
+    <a href="https://expressjs.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+             alt="ExpressJS" width="40" height="40"/>
+    </a>
     </td>
     <td>
         <a href="https://gitlab.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="40" height="40"/></a>
         <a href="https://github.com/features/actions" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="Github actions" width="40" height="40"/> </a>
     </td>
+   
   </tr>
 </table>
